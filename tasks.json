@@ -95,6 +95,25 @@
       "completed": false,
       "createdAt": "2026-08-18T05:11:13.856Z",
       "completedAt": null
+    },
+    {
+      "id": "76a67d65-6f53-4e11-b7fb-b8daad6be9c6",
+      "title": "Complete One Manager Climb Program Training",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": {
+        "frequency": "weekly",
+        "dayOfWeek": 5
+      },
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-18T05:15:45.659Z",
+      "completedAt": null
     }
   ]
 }
