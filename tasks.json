@@ -189,7 +189,7 @@
         "frequency": "weekly",
         "dayOfWeek": 1
       },
-      "lastCompletedDate": null,
+      "lastCompletedDate": "2026-08-17",
       "isFollowUp": false,
       "completionComment": null,
       "urgent": null,
