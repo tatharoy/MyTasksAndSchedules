@@ -213,6 +213,22 @@
       "completed": false,
       "createdAt": "2026-08-18T17:07:41.544Z",
       "completedAt": null
+    },
+    {
+      "id": "61a2016d-3119-4604-9e14-f9373c29d7d2",
+      "title": "clean up old stories in jira",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-18T18:14:35.209Z",
+      "completedAt": null
     }
   ]
 }
