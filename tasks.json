@@ -114,6 +114,22 @@
       "completed": false,
       "createdAt": "2026-08-18T05:15:45.659Z",
       "completedAt": null
+    },
+    {
+      "id": "cf69c86a-e333-4b52-b006-c9aa6831558e",
+      "title": "complete local dev for all contacts devs",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-18T05:17:17.277Z",
+      "completedAt": null
     }
   ]
 }
