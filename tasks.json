@@ -95,6 +95,24 @@
       "completed": false,
       "createdAt": "2026-08-18T05:11:13.856Z",
       "completedAt": null
+    },
+    {
+      "id": "3cbd0f7d-e976-4fcb-bf01-5a38675dd588",
+      "title": "complete 1 manager training every week",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": {
+        "frequency": "weekly",
+        "dayOfWeek": 1
+      },
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-18T05:14:01.287Z",
+      "completedAt": null
     }
   ]
-}
