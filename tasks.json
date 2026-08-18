@@ -130,6 +130,22 @@
       "completed": false,
       "createdAt": "2026-08-18T05:17:17.277Z",
       "completedAt": null
+    },
+    {
+      "id": "eb842a21-2599-41ab-9af9-fa0a7a7744e7",
+      "title": "Complete Agentic Architecture for CCA - F",
+      "notes": "",
+      "tagId": null,
+      "dueDate": "2026-08-21",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-18T05:20:21.004Z",
+      "completedAt": null
     }
   ]
 }
