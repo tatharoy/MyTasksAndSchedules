@@ -90,8 +90,8 @@
       "lastCompletedDate": null,
       "isFollowUp": false,
       "completionComment": null,
-      "urgent": null,
-      "important": null,
+      "urgent": false,
+      "important": false,
       "completed": false,
       "createdAt": "2026-08-18T05:11:13.856Z",
       "completedAt": null
