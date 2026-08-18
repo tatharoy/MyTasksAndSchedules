@@ -47,6 +47,22 @@
       "completed": false,
       "createdAt": "2026-08-18T05:09:05.961Z",
       "completedAt": null
+    },
+    {
+      "id": "d76042ed-610b-436a-8058-02f90e722302",
+      "title": "Complete all fields mapping for NTW",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-18T05:09:57.589Z",
+      "completedAt": null
     }
   ]
 }
