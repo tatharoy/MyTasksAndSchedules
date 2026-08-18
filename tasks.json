@@ -73,12 +73,12 @@
       "recurrence": null,
       "lastCompletedDate": null,
       "isFollowUp": true,
-      "completionComment": null,
+      "completionComment": "Sent E-mail to Jessica.waiting for response",
       "urgent": true,
       "important": true,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-08-18T05:10:44.015Z",
-      "completedAt": null
+      "completedAt": "2026-08-18T18:11:10.015Z"
     },
     {
       "id": "38c33f50-c83a-40a7-94ee-b53defd4678c",
