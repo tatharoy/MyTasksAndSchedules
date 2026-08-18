@@ -178,6 +178,25 @@
       "completed": false,
       "createdAt": "2026-08-18T05:23:04.906Z",
       "completedAt": null
+    },
+    {
+      "id": "fccc1d46-3099-4ff5-b7a7-a67386bffcc2",
+      "title": "Oil",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": {
+        "frequency": "weekly",
+        "dayOfWeek": 1
+      },
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-18T05:25:00.056Z",
+      "completedAt": null
     }
   ]
 }
