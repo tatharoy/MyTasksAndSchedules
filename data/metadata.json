@@ -1,0 +1,20 @@
+{
+  "title": "Tatha's Schedule",
+  "tags": [
+    {
+      "id": "client",
+      "name": "Client",
+      "color": "#3b6fa8"
+    },
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "color": "#2f7d4f"
+    },
+    {
+      "id": "personal",
+      "name": "Personal",
+      "color": "#a8672f"
+    }
+  ]
+}
