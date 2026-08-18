@@ -9,12 +9,12 @@
       "recurrence": null,
       "lastCompletedDate": null,
       "isFollowUp": true,
-      "completionComment": null,
+      "completionComment": "It worked and we do not.",
       "urgent": true,
       "important": true,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-08-18T04:11:41.462Z",
-      "completedAt": null
+      "completedAt": "2026-08-18T04:12:17.612Z"
     }
   ]
 }
