@@ -72,7 +72,7 @@
       "dueDate": null,
       "recurrence": null,
       "lastCompletedDate": null,
-      "isFollowUp": false,
+      "isFollowUp": true,
       "completionComment": null,
       "urgent": true,
       "important": true,
