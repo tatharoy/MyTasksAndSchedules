@@ -309,6 +309,22 @@
       "completed": false,
       "createdAt": "2026-08-19T06:03:11.733Z",
       "completedAt": null
+    },
+    {
+      "id": "e89ce194-b80a-4be6-8a99-69710ca47160",
+      "title": "Work on my Personal Finance tool, similar to Quiken",
+      "notes": "",
+      "tagId": null,
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-19T06:24:12.706Z",
+      "completedAt": null
     }
   ]
 }
