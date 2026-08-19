@@ -389,6 +389,22 @@
       "completed": false,
       "createdAt": "2026-08-19T15:56:59.877Z",
       "completedAt": null
+    },
+    {
+      "id": "6bd61775-98da-4295-8e32-6465d87ba8be",
+      "title": "complete industry proficiency learning material",
+      "notes": "https://americas.internal.deloitteonline.com/sites/IndInstIPP/SitePages/index.html#/dashboard",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-19T16:01:13.323Z",
+      "completedAt": null
     }
   ]
 }
