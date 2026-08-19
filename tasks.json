@@ -293,6 +293,22 @@
       "completed": false,
       "createdAt": "2026-08-19T05:57:28.146Z",
       "completedAt": null
+    },
+    {
+      "id": "31005077-ccb3-4b92-85f3-9fc92d5fd9e2",
+      "title": "Complete Niche for Citiustech",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-08-28",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-19T06:03:11.733Z",
+      "completedAt": null
     }
   ]
 }
