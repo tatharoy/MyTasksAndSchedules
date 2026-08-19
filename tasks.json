@@ -261,6 +261,22 @@
       "completed": false,
       "createdAt": "2026-08-19T05:36:08.558Z",
       "completedAt": null
+    },
+    {
+      "id": "b64c27e2-5d6f-4389-9b40-e66420727487",
+      "title": "raise select home warranty claim",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-19T05:38:54.955Z",
+      "completedAt": null
     }
   ]
 }
