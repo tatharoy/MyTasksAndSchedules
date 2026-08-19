@@ -341,6 +341,22 @@
       "completed": false,
       "createdAt": "2026-08-19T06:24:48.448Z",
       "completedAt": null
+    },
+    {
+      "id": "aea5acb3-dead-4508-a294-8c78932f9264",
+      "title": "Complete Niche for Deloitte",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-09-04",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-19T13:56:21.656Z",
+      "completedAt": null
     }
   ]
 }
