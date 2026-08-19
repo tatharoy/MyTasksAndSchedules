@@ -320,10 +320,26 @@
       "lastCompletedDate": null,
       "isFollowUp": false,
       "completionComment": null,
+      "urgent": false,
+      "important": false,
+      "completed": false,
+      "createdAt": "2026-08-19T06:24:12.706Z",
+      "completedAt": null
+    },
+    {
+      "id": "10a2f29d-0043-4118-910b-7d3db98c2d73",
+      "title": "Create my Personal Hindu Scriptures Knowledge Base",
+      "notes": "",
+      "tagId": null,
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
       "urgent": null,
       "important": null,
       "completed": false,
-      "createdAt": "2026-08-19T06:24:12.706Z",
+      "createdAt": "2026-08-19T06:24:48.448Z",
       "completedAt": null
     }
   ]
