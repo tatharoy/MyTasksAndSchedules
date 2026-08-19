@@ -373,6 +373,22 @@
       "completed": false,
       "createdAt": "2026-08-19T15:52:59.555Z",
       "completedAt": null
+    },
+    {
+      "id": "a182c718-a3a1-4a91-8b4f-28df20a555d9",
+      "title": "add google scholar and research gate accounts",
+      "notes": "check with Ritesh once",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-19T15:56:59.877Z",
+      "completedAt": null
     }
   ]
 }
