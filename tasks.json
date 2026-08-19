@@ -245,6 +245,22 @@
       "completed": true,
       "createdAt": "2026-08-18T20:00:10.793Z",
       "completedAt": "2026-08-18T20:00:12.900Z"
+    },
+    {
+      "id": "7b8e0f1b-ee0d-4151-b602-61ca14544335",
+      "title": "connect with Maxwell Kruger on Cloud Natve App modernization",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-19T05:36:08.558Z",
+      "completedAt": null
     }
   ]
 }
