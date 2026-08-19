@@ -277,6 +277,22 @@
       "completed": true,
       "createdAt": "2026-08-19T05:38:54.955Z",
       "completedAt": "2026-08-19T05:51:25.994Z"
+    },
+    {
+      "id": "48eb476c-eabd-474d-9710-2d97ce1bb16d",
+      "title": "BAL payment for h4 EAD",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": "2026-08-19",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-19T05:57:28.146Z",
+      "completedAt": null
     }
   ]
 }
