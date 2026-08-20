@@ -155,7 +155,7 @@
       "dueDate": "2026-08-21",
       "recurrence": null,
       "lastCompletedDate": null,
-      "isFollowUp": false,
+      "isFollowUp": true,
       "completionComment": null,
       "urgent": true,
       "important": true,
