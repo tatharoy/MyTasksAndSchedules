@@ -405,6 +405,22 @@
       "completed": false,
       "createdAt": "2026-08-19T16:01:13.323Z",
       "completedAt": null
+    },
+    {
+      "id": "763bc4d5-a46a-4231-8d3d-67371b05d016",
+      "title": "connect with Bandhakavi, Pavan on AI Native pods",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-20T17:40:30.387Z",
+      "completedAt": null
     }
   ]
 }
