@@ -175,9 +175,9 @@
       "completionComment": "he is setting call with Urvi and sent an email and created a sheet for teams owning what",
       "urgent": false,
       "important": true,
-      "completed": true,
+      "completed": false,
       "createdAt": "2026-08-18T05:23:04.906Z",
-      "completedAt": "2026-08-21T14:53:39.533Z"
+      "completedAt": null
     },
     {
       "id": "fccc1d46-3099-4ff5-b7a7-a67386bffcc2",
