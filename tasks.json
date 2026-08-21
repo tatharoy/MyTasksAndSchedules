@@ -437,6 +437,22 @@
       "completed": false,
       "createdAt": "2026-08-20T19:32:52.328Z",
       "completedAt": null
+    },
+    {
+      "id": "1cbb48dc-acb9-4676-a193-dc7e70253a4b",
+      "title": "Create BRPP roster",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-21T14:51:16.297Z",
+      "completedAt": null
     }
   ]
 }
