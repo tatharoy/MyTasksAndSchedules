@@ -485,6 +485,22 @@
       "completed": false,
       "createdAt": "2026-08-25T17:01:38.323Z",
       "completedAt": null
+    },
+    {
+      "id": "871dd53f-ec90-41d3-8d1c-0c880903d1ce",
+      "title": "send BAL h4 EAD docs as soon as they email",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": "2026-08-26",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-25T17:07:39.729Z",
+      "completedAt": null
     }
   ]
 }
