@@ -543,7 +543,7 @@
       "recurrence": null,
       "lastCompletedDate": null,
       "completedSlots": null,
-      "isFollowUp": false,
+      "isFollowUp": true,
       "followUpComments": [],
       "completionComment": null,
       "urgent": null,
