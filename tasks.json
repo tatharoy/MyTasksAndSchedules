@@ -501,6 +501,22 @@
       "completed": false,
       "createdAt": "2026-08-25T17:07:39.729Z",
       "completedAt": null
+    },
+    {
+      "id": "5279cfbd-fbe7-41d2-b23e-91b971d29522",
+      "title": "add all the expenses for the camping trip",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-25T17:21:24.080Z",
+      "completedAt": null
     }
   ]
 }
