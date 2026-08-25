@@ -552,7 +552,12 @@
         ]
       },
       "lastCompletedDate": null,
-      "completedSlots": null,
+      "completedSlots": {
+        "date": "2026-08-25",
+        "times": [
+          "08:00"
+        ]
+      },
       "isFollowUp": false,
       "followUpComments": [],
       "completionComment": null,
