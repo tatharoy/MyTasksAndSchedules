@@ -453,6 +453,22 @@
       "completed": true,
       "createdAt": "2026-08-21T14:51:16.297Z",
       "completedAt": "2026-08-24T23:19:13.220Z"
+    },
+    {
+      "id": "850b71a2-582a-4092-a569-c80b9c4d7c52",
+      "title": "enable LIC which is dormant",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": true,
+      "important": false,
+      "completed": false,
+      "createdAt": "2026-08-25T16:59:11.852Z",
+      "completedAt": null
     }
   ]
 }
