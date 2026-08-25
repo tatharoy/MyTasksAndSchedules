@@ -529,7 +529,7 @@
       "isFollowUp": false,
       "completionComment": null,
       "urgent": true,
-      "important": true,
+      "important": false,
       "completed": false,
       "createdAt": "2026-08-25T18:49:27.047Z",
       "completedAt": null
