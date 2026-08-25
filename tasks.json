@@ -533,6 +533,24 @@
       "completed": false,
       "createdAt": "2026-08-25T18:49:27.047Z",
       "completedAt": null
+    },
+    {
+      "id": "f34e3a9b-9d7f-437a-aa50-e7721749f489",
+      "title": "add daily reminder task",
+      "notes": "",
+      "tagId": null,
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-25T19:17:42.264Z",
+      "completedAt": null
     }
   ]
 }
