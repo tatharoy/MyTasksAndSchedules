@@ -469,6 +469,22 @@
       "completed": false,
       "createdAt": "2026-08-25T16:59:11.852Z",
       "completedAt": null
+    },
+    {
+      "id": "90ed3784-a988-4b0c-abcf-302ab0032a01",
+      "title": "research familiy lawyers for POA - metlife",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-25T17:01:38.323Z",
+      "completedAt": null
     }
   ]
 }
