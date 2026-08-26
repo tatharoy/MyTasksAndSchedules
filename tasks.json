@@ -567,6 +567,29 @@
       "completed": false,
       "createdAt": "2026-08-25T19:17:42.264Z",
       "completedAt": null
+    },
+    {
+      "id": "ea500764-dfa1-4f5f-a9d3-4f894e7bcd47",
+      "title": "fill timesheets",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": {
+        "frequency": "weekly",
+        "daysOfWeek": [
+          5
+        ]
+      },
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-26T20:30:15.052Z",
+      "completedAt": null
     }
   ]
 }
