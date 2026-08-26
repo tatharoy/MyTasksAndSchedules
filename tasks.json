@@ -555,7 +555,8 @@
       "completedSlots": {
         "date": "2026-08-26",
         "times": [
-          "08:00"
+          "08:00",
+          "11:30"
         ]
       },
       "isFollowUp": false,
