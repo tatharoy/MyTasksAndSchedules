@@ -609,6 +609,24 @@
       "completed": false,
       "createdAt": "2026-08-27T16:54:42.645Z",
       "completedAt": null
+    },
+    {
+      "id": "322fd940-345b-48d5-990f-f166efe16ca7",
+      "title": "try out Deloitte's AAH locally",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-27T20:05:17.720Z",
+      "completedAt": null
     }
   ]
 }
