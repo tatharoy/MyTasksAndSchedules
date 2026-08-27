@@ -591,6 +591,24 @@
       "completed": false,
       "createdAt": "2026-08-26T20:30:15.052Z",
       "completedAt": null
+    },
+    {
+      "id": "763f6071-e825-4689-9962-067562db2519",
+      "title": "FBAR for 2023, 2024 and 2025",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-27T16:54:42.645Z",
+      "completedAt": null
     }
   ]
 }
