@@ -623,7 +623,7 @@
       "followUpComments": [],
       "completionComment": null,
       "urgent": true,
-      "important": true,
+      "important": false,
       "completed": false,
       "createdAt": "2026-08-27T20:05:17.720Z",
       "completedAt": null
