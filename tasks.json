@@ -622,8 +622,8 @@
       "isFollowUp": false,
       "followUpComments": [],
       "completionComment": null,
-      "urgent": null,
-      "important": null,
+      "urgent": true,
+      "important": true,
       "completed": false,
       "createdAt": "2026-08-27T20:05:17.720Z",
       "completedAt": null
