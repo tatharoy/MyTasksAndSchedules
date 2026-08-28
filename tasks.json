@@ -644,6 +644,24 @@
       "completed": false,
       "createdAt": "2026-08-28T16:11:36.004Z",
       "completedAt": null
+    },
+    {
+      "id": "63a8195d-ead2-4f3a-ba6f-0892f15c07b6",
+      "title": "create web based solution for all recordings with Technology/ deloitte , has both recording and ppt",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": false,
+      "completed": false,
+      "createdAt": "2026-08-28T16:13:34.872Z",
+      "completedAt": null
     }
   ]
 }
