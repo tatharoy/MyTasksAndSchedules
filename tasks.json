@@ -662,6 +662,24 @@
       "completed": false,
       "createdAt": "2026-08-28T16:13:34.872Z",
       "completedAt": null
+    },
+    {
+      "id": "473f2ab4-1a5a-4239-bd31-c56f336781d2",
+      "title": "Promotion Readiness  NOtes, create docs",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-28T16:14:43.970Z",
+      "completedAt": null
     }
   ]
 }
