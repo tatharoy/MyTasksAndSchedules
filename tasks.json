@@ -695,9 +695,9 @@
       "completionComment": null,
       "urgent": null,
       "important": null,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-08-28T16:58:55.155Z",
-      "completedAt": null
+      "completedAt": "2026-08-28T19:30:08.482Z"
     }
   ]
 }
