@@ -722,6 +722,24 @@
       "completed": false,
       "createdAt": "2026-08-31T02:30:21.175Z",
       "completedAt": null
+    },
+    {
+      "id": "aae9431c-ead4-4ec6-b098-796125a48df0",
+      "title": "send painting proof to HOA",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-31T14:33:23.645Z",
+      "completedAt": null
     }
   ]
 }
