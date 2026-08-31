@@ -756,6 +756,24 @@
       "completed": false,
       "createdAt": "2026-08-31T14:46:48.381Z",
       "completedAt": null
+    },
+    {
+      "id": "cdda6022-8f4e-4ced-bfd2-68b3a9cf9eff",
+      "title": "cancel doordash",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-08-31",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": true,
+      "createdAt": "2026-08-31T17:28:06.288Z",
+      "completedAt": "2026-08-31T17:28:09.789Z"
     }
   ]
 }
