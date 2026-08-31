@@ -797,7 +797,7 @@
       "id": "8bd4836e-1874-4454-836c-a774ac049152",
       "title": "book sunu nigam concert parking",
       "notes": "",
-      "tagId": null,
+      "tagId": "personal",
       "dueDate": null,
       "recurrence": null,
       "lastCompletedDate": null,
@@ -807,9 +807,9 @@
       "completionComment": null,
       "urgent": null,
       "important": null,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-08-31T18:10:11.882Z",
-      "completedAt": null
+      "completedAt": "2026-08-31T18:10:21.652Z"
     }
   ]
 }
