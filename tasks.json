@@ -774,6 +774,24 @@
       "completed": true,
       "createdAt": "2026-08-31T17:28:06.288Z",
       "completedAt": "2026-08-31T17:28:09.789Z"
+    },
+    {
+      "id": "b460fa22-999a-4275-8ded-2fd14a1418eb",
+      "title": "create app which gives which credit card has offers for which stores",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-31T17:28:44.891Z",
+      "completedAt": null
     }
   ]
 }
