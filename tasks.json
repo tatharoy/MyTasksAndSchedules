@@ -701,6 +701,27 @@
       "completed": true,
       "createdAt": "2026-08-28T16:58:55.155Z",
       "completedAt": "2026-08-28T19:30:08.482Z"
+    },
+    {
+      "id": "fb460f90-dafd-4cd5-abbf-9210915941a3",
+      "title": "Pay credit card bills",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": {
+        "frequency": "monthly",
+        "dayOfMonth": 29
+      },
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-31T02:30:21.175Z",
+      "completedAt": null
     }
   ]
 }
