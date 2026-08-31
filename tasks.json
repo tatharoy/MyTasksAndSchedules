@@ -192,7 +192,7 @@
           3
         ]
       },
-      "lastCompletedDate": "2026-08-26",
+      "lastCompletedDate": "2026-08-31",
       "isFollowUp": false,
       "completionComment": null,
       "urgent": null,
@@ -608,9 +608,9 @@
       "completionComment": null,
       "urgent": null,
       "important": null,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-08-27T16:54:42.645Z",
-      "completedAt": null
+      "completedAt": "2026-08-31T14:25:57.391Z"
     },
     {
       "id": "322fd940-345b-48d5-990f-f166efe16ca7",
