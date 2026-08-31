@@ -737,6 +737,24 @@
       "completed": false,
       "createdAt": "2026-08-31T14:33:23.645Z",
       "completedAt": null
+    },
+    {
+      "id": "4e3110ea-9c5b-4b8a-be20-08f559944994",
+      "title": "review DT monitoring dashboard migrations",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-08-31T14:46:48.381Z",
+      "completedAt": null
     }
   ]
 }
