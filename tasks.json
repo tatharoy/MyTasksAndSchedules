@@ -864,6 +864,24 @@
       "completed": false,
       "createdAt": "2026-08-31T19:27:43.739Z",
       "completedAt": null
+    },
+    {
+      "id": "11dab836-e332-498c-a7eb-1c86319f9afe",
+      "title": "Springer Conference Peer Review",
+      "notes": "this will come from Springer conference in September , at a time 10 papers , for 1 month. September judging, Keynote speaker will have to do , keynote speaker $650. conf paper $45*10",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-08-31T19:54:31.099Z",
+      "completedAt": null
     }
   ]
 }
