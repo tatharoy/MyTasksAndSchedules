@@ -883,6 +883,24 @@
       "completed": false,
       "createdAt": "2026-08-31T19:54:31.099Z",
       "completedAt": null
+    },
+    {
+      "id": "9e671f7e-3386-4790-9598-c912e6756183",
+      "title": "activate Deloitte Enterprise Gemini to integrate Outlook",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-09-01T03:14:48.283Z",
+      "completedAt": null
     }
   ]
 }
