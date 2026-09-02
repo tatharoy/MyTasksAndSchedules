@@ -919,6 +919,24 @@
       "completed": false,
       "createdAt": "2026-09-02T13:46:47.104Z",
       "completedAt": null
+    },
+    {
+      "id": "22bbc01f-f8b4-41fd-bcfe-7eb480f60290",
+      "title": "Car research and document for proof",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-09-02T13:53:09.948Z",
+      "completedAt": null
     }
   ]
 }
