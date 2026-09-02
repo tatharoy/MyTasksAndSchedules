@@ -554,11 +554,10 @@
       },
       "lastCompletedDate": null,
       "completedSlots": {
-        "date": "2026-08-31",
+        "date": "2026-09-02",
         "times": [
           "08:00",
-          "11:30",
-          "14:00"
+          "11:30"
         ]
       },
       "isFollowUp": false,
