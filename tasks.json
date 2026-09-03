@@ -954,6 +954,24 @@
       "completed": false,
       "createdAt": "2026-09-02T16:36:30.445Z",
       "completedAt": null
+    },
+    {
+      "id": "83dc52af-d3a1-4e4d-a4ca-fd626512af6a",
+      "title": "call Capital One on not 5X",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-09-03",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-09-03T13:58:38.291Z",
+      "completedAt": null
     }
   ]
 }
