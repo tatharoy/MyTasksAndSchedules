@@ -972,6 +972,24 @@
       "completed": false,
       "createdAt": "2026-09-03T13:58:38.291Z",
       "completedAt": null
+    },
+    {
+      "id": "a7f3382e-01f6-4f09-a08a-a81360ac5898",
+      "title": "complete Prevlidge access training for EDJ",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": "2026-09-30",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-03T14:02:01.052Z",
+      "completedAt": null
     }
   ]
 }
