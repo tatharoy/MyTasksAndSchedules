@@ -692,7 +692,7 @@
         "frequency": "monthly",
         "dayOfMonth": 29
       },
-      "lastCompletedDate": null,
+      "lastCompletedDate": "2026-09-03",
       "completedSlots": null,
       "isFollowUp": false,
       "followUpComments": [],
@@ -969,9 +969,9 @@
       "completionComment": null,
       "urgent": null,
       "important": null,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-09-03T13:58:38.291Z",
-      "completedAt": null
+      "completedAt": "2026-09-03T14:10:49.653Z"
     },
     {
       "id": "a7f3382e-01f6-4f09-a08a-a81360ac5898",
