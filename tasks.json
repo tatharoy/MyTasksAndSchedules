@@ -1026,6 +1026,24 @@
       "completed": false,
       "createdAt": "2026-09-08T14:52:17.714Z",
       "completedAt": null
+    },
+    {
+      "id": "ba9dafb0-67a6-4550-aada-ef0f84386896",
+      "title": "Create Stories/Mapping for 26.4",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": "2026-09-16",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-08T14:54:00.566Z",
+      "completedAt": null
     }
   ]
 }
