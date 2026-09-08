@@ -1008,6 +1008,24 @@
       "completed": false,
       "createdAt": "2026-09-08T14:51:13.878Z",
       "completedAt": null
+    },
+    {
+      "id": "45f9530a-5368-4da6-bc7a-93dc3e6c902a",
+      "title": "Complete CCDV-F Learnings and Notes",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-09-13",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-08T14:52:17.714Z",
+      "completedAt": null
     }
   ]
 }
