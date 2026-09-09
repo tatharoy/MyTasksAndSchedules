@@ -1062,6 +1062,24 @@
       "completed": false,
       "createdAt": "2026-09-09T00:28:30.887Z",
       "completedAt": null
+    },
+    {
+      "id": "5985a0b2-54e2-4dc5-95dc-05c9b96951eb",
+      "title": "release car from storage",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-09-09",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-09-09T15:00:05.636Z",
+      "completedAt": null
     }
   ]
 }
