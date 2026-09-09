@@ -1044,6 +1044,24 @@
       "completed": false,
       "createdAt": "2026-09-08T14:54:00.566Z",
       "completedAt": null
+    },
+    {
+      "id": "20e3d41c-1d63-4984-930d-fe650a7e7b42",
+      "title": "Work on PR for October",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-09-19",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-09T00:28:30.887Z",
+      "completedAt": null
     }
   ]
 }
