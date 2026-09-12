@@ -1152,6 +1152,24 @@
       "completed": false,
       "createdAt": "2026-09-12T19:58:57.724Z",
       "completedAt": null
+    },
+    {
+      "id": "f5bd424a-b893-4fae-84b9-715aa46f7cb8",
+      "title": "connect personal claude with insta , twitter to create a learning app and things to try out from bookmarks",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-09-12T20:02:30.265Z",
+      "completedAt": null
     }
   ]
 }
