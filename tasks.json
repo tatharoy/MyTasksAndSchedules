@@ -1134,6 +1134,24 @@
       "completed": false,
       "createdAt": "2026-09-12T19:58:28.626Z",
       "completedAt": null
+    },
+    {
+      "id": "e5694463-42cd-42a2-97b8-a77a51c5f704",
+      "title": "check current Social Security Status",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-09-15",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-12T19:58:57.724Z",
+      "completedAt": null
     }
   ]
 }
