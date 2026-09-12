@@ -1080,6 +1080,24 @@
       "completed": true,
       "createdAt": "2026-09-09T15:00:05.636Z",
       "completedAt": "2026-09-10T05:07:28.848Z"
+    },
+    {
+      "id": "bb0ac33d-dd26-4869-ae6b-7bd78c7906ba",
+      "title": "Carefull Design",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": "2026-09-18",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-09-12T19:56:47.432Z",
+      "completedAt": null
     }
   ]
 }
