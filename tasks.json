@@ -1188,6 +1188,24 @@
       "completed": false,
       "createdAt": "2026-09-12T20:03:53.283Z",
       "completedAt": null
+    },
+    {
+      "id": "409e939a-57d7-4c08-a940-e8ab19bf792a",
+      "title": "trye EliteA by seeing videos and next steps",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-12T20:04:40.319Z",
+      "completedAt": null
     }
   ]
 }
