@@ -403,7 +403,7 @@
       "lastCompletedDate": null,
       "isFollowUp": false,
       "completionComment": null,
-      "urgent": false,
+      "urgent": true,
       "important": false,
       "completed": false,
       "createdAt": "2026-08-19T16:01:13.323Z",
