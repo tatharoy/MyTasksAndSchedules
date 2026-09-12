@@ -1098,6 +1098,24 @@
       "completed": false,
       "createdAt": "2026-09-12T19:56:47.432Z",
       "completedAt": null
+    },
+    {
+      "id": "f1185269-5285-4036-b0c5-8d0bbf900d8f",
+      "title": "Finalize the Kafka consumer patterns",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": "2026-09-18",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-12T19:57:38.980Z",
+      "completedAt": null
     }
   ]
 }
