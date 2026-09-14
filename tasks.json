@@ -1260,6 +1260,24 @@
       "completed": false,
       "createdAt": "2026-09-14T17:56:38.258Z",
       "completedAt": null
+    },
+    {
+      "id": "e036d6e0-8b80-401d-b5a5-f1b1740446bb",
+      "title": "design for classification",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-14T17:57:13.120Z",
+      "completedAt": null
     }
   ]
 }
