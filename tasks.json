@@ -1278,6 +1278,24 @@
       "completed": false,
       "createdAt": "2026-09-14T17:57:13.120Z",
       "completedAt": null
+    },
+    {
+      "id": "39a8b5b6-bf41-4d85-a3d9-6ad54b8ad199",
+      "title": "ConForce stories for 26.4",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": "2026-09-18",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-14T17:57:57.594Z",
+      "completedAt": null
     }
   ]
 }
