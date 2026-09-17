@@ -1093,7 +1093,7 @@
       "isFollowUp": false,
       "followUpComments": [],
       "completionComment": null,
-      "urgent": false,
+      "urgent": true,
       "important": true,
       "completed": false,
       "createdAt": "2026-09-12T19:56:47.432Z",
