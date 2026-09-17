@@ -1041,9 +1041,9 @@
       "completionComment": null,
       "urgent": false,
       "important": true,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-09-08T14:54:00.566Z",
-      "completedAt": null
+      "completedAt": "2026-09-17T14:00:18.748Z"
     },
     {
       "id": "20e3d41c-1d63-4984-930d-fe650a7e7b42",
