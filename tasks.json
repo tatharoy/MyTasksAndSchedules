@@ -1315,6 +1315,24 @@
       "completed": true,
       "createdAt": "2026-09-24T00:02:22.350Z",
       "completedAt": "2026-09-24T00:02:27.450Z"
+    },
+    {
+      "id": "83a8aea2-2f8b-498c-8dd0-9176dc3055ba",
+      "title": "create app for clearing personal data from broker",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-25T04:06:44.667Z",
+      "completedAt": null
     }
   ]
 }
