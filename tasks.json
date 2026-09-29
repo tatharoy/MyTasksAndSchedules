@@ -1351,6 +1351,24 @@
       "completed": false,
       "createdAt": "2026-09-29T16:46:24.276Z",
       "completedAt": null
+    },
+    {
+      "id": "1494443d-cc22-4351-8d12-bc9c53a841d8",
+      "title": "Complete Carefull Mappings for BRO feeds and Team is clear",
+      "notes": "",
+      "tagId": "client",
+      "dueDate": "2026-10-02",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-29T17:24:08.259Z",
+      "completedAt": null
     }
   ]
 }
