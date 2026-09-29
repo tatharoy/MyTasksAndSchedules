@@ -1387,6 +1387,24 @@
       "completed": true,
       "createdAt": "2026-09-29T18:28:34.188Z",
       "completedAt": "2026-09-29T18:28:40.215Z"
+    },
+    {
+      "id": "2aa610d8-1465-45de-8357-e2a84e046438",
+      "title": "Prep for SWE interviews",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": "2026-10-01",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-09-29T19:19:06.963Z",
+      "completedAt": null
     }
   ]
 }
