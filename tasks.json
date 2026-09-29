@@ -1369,6 +1369,24 @@
       "completed": false,
       "createdAt": "2026-09-29T17:24:08.259Z",
       "completedAt": null
+    },
+    {
+      "id": "7d8027cf-925c-4d37-b46c-e2229dcc549c",
+      "title": "oct payment for paper",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": true,
+      "createdAt": "2026-09-29T18:28:34.188Z",
+      "completedAt": "2026-09-29T18:28:40.215Z"
     }
   ]
 }
