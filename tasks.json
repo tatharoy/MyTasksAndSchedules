@@ -1418,8 +1418,8 @@
       "isFollowUp": false,
       "followUpComments": [],
       "completionComment": null,
-      "urgent": null,
-      "important": null,
+      "urgent": true,
+      "important": true,
       "completed": false,
       "createdAt": "2026-10-05T15:31:42.797Z",
       "completedAt": null
