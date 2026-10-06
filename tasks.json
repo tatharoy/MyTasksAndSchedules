@@ -1441,6 +1441,24 @@
       "completed": false,
       "createdAt": "2026-10-06T15:11:24.662Z",
       "completedAt": null
+    },
+    {
+      "id": "4d5fd0ce-6714-483c-a22c-17d7f746071c",
+      "title": "approve snapshots",
+      "notes": "",
+      "tagId": "deloitte",
+      "dueDate": "2026-10-09",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-10-06T17:55:53.701Z",
+      "completedAt": null
     }
   ]
 }
