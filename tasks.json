@@ -546,9 +546,7 @@
       "recurrence": {
         "frequency": "daily",
         "times": [
-          "08:00",
           "11:30",
-          "14:00",
           "19:00"
         ]
       },
