@@ -106,7 +106,7 @@
         "frequency": "weekly",
         "dayOfWeek": 5
       },
-      "lastCompletedDate": null,
+      "lastCompletedDate": "2026-10-16",
       "isFollowUp": false,
       "completionComment": null,
       "urgent": false,
@@ -580,7 +580,7 @@
           5
         ]
       },
-      "lastCompletedDate": "2026-10-09",
+      "lastCompletedDate": "2026-10-16",
       "completedSlots": null,
       "isFollowUp": false,
       "followUpComments": [],
