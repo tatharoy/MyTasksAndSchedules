@@ -82,9 +82,9 @@
     },
     {
       "id": "38c33f50-c83a-40a7-94ee-b53defd4678c",
-      "title": "Create tool to View all Logs for a Contact",
+      "title": "Create App to View all Workflows , identifies issues and suggests fixes Contact",
       "notes": "",
-      "tagId": "client",
+      "tagId": "personal",
       "dueDate": null,
       "recurrence": null,
       "lastCompletedDate": null,
