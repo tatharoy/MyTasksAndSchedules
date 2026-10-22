@@ -1475,6 +1475,24 @@
       "completed": true,
       "createdAt": "2026-10-06T18:03:16.886Z",
       "completedAt": "2026-10-09T19:24:13.354Z"
+    },
+    {
+      "id": "c5d13486-e9ab-43a7-925d-744add8d16d9",
+      "title": "call Select HOme Warranty",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": false,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-10-22T03:14:25.433Z",
+      "completedAt": null
     }
   ]
 }
