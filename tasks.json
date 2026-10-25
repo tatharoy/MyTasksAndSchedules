@@ -82,10 +82,10 @@
     },
     {
       "id": "38c33f50-c83a-40a7-94ee-b53defd4678c",
-      "title": "Create App to View all Workflows , identifies issues and suggests fixes Contact",
-      "notes": "",
+      "title": "Work on flowArk - Personal project for universal use- Phase 1",
+      "notes": "Phase one should have app running locally - with external link running",
       "tagId": "personal",
-      "dueDate": null,
+      "dueDate": "2026-11-06",
       "recurrence": null,
       "lastCompletedDate": null,
       "isFollowUp": false,
