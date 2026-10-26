@@ -1493,6 +1493,24 @@
       "completed": true,
       "createdAt": "2026-10-22T03:14:25.433Z",
       "completedAt": "2026-10-25T17:44:45.115Z"
+    },
+    {
+      "id": "3f499ca4-6da8-4e55-9052-302bb181650a",
+      "title": "create apple developer account",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-10-26T02:05:53.391Z",
+      "completedAt": null
     }
   ]
 }
