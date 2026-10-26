@@ -437,9 +437,9 @@
       "completionComment": null,
       "urgent": false,
       "important": false,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-08-20T19:32:52.328Z",
-      "completedAt": null
+      "completedAt": "2026-10-26T02:06:01.114Z"
     },
     {
       "id": "1cbb48dc-acb9-4676-a193-dc7e70253a4b",
@@ -1506,8 +1506,8 @@
       "isFollowUp": false,
       "followUpComments": [],
       "completionComment": null,
-      "urgent": null,
-      "important": null,
+      "urgent": false,
+      "important": true,
       "completed": false,
       "createdAt": "2026-10-26T02:05:53.391Z",
       "completedAt": null
