@@ -1526,9 +1526,9 @@
       "completionComment": null,
       "urgent": null,
       "important": null,
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-11-06T18:54:08.318Z",
-      "completedAt": null
+      "completedAt": "2026-11-06T18:54:13.743Z"
     }
   ]
 }
