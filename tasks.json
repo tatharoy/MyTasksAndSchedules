@@ -1529,6 +1529,24 @@
       "completed": true,
       "createdAt": "2026-11-06T18:54:08.318Z",
       "completedAt": "2026-11-06T18:54:13.743Z"
+    },
+    {
+      "id": "8c4a7a8a-0024-4a89-994a-c1c8bb7affd2",
+      "title": "Test task from Claude Code",
+      "notes": "",
+      "tagId": null,
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": null,
+      "important": null,
+      "completed": false,
+      "createdAt": "2026-11-14T19:35:18.575Z",
+      "completedAt": null
     }
   ]
 }
