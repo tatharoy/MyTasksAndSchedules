@@ -1513,6 +1513,24 @@
       "completed": true,
       "createdAt": "2026-11-06T18:54:08.318Z",
       "completedAt": "2026-11-06T18:54:13.743Z"
+    },
+    {
+      "id": "3a69ba37-8154-4441-91fb-2ffe08392e9b",
+      "title": "call xfinity",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-11-20",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-11-17T01:37:24.853Z",
+      "completedAt": null
     }
   ]
 }
