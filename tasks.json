@@ -49,22 +49,6 @@
       "completedAt": "2026-08-24T23:19:22.351Z"
     },
     {
-      "id": "186c4a92-77ab-4217-9590-b0f506749f68",
-      "title": "Send email to Attorney",
-      "notes": "",
-      "tagId": "deloitte",
-      "dueDate": null,
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": true,
-      "completionComment": "sent email directly to Attorney, waiting for response",
-      "urgent": true,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-18T05:10:44.015Z",
-      "completedAt": "2026-08-18T18:21:30.214Z"
-    },
-    {
       "id": "38c33f50-c83a-40a7-94ee-b53defd4678c",
       "title": "Work on flowArk - Personal project for universal use- Phase 1",
       "notes": "Phase one should have app running locally - with external link running",
@@ -186,22 +170,6 @@
       "completedAt": null
     },
     {
-      "id": "2c093d6c-1a76-48a9-bd58-902c6625c7a1",
-      "title": "snapshot reviews",
-      "notes": "",
-      "tagId": "deloitte",
-      "dueDate": "2026-08-21",
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": true,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-18T17:07:41.544Z",
-      "completedAt": "2026-08-19T06:20:35.233Z"
-    },
-    {
       "id": "61a2016d-3119-4604-9e14-f9373c29d7d2",
       "title": "clean up old stories in jira",
       "notes": "",
@@ -218,22 +186,6 @@
       "completedAt": "2026-08-31T19:14:53.122Z"
     },
     {
-      "id": "51b37fdb-888b-4319-9448-280c991806ee",
-      "title": "complete the questionnaire for EAD NIV",
-      "notes": "",
-      "tagId": "deloitte",
-      "dueDate": "2026-08-18",
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": null,
-      "important": null,
-      "completed": true,
-      "createdAt": "2026-08-18T20:00:10.793Z",
-      "completedAt": "2026-08-18T20:00:12.900Z"
-    },
-    {
       "id": "7b8e0f1b-ee0d-4151-b602-61ca14544335",
       "title": "connect with Maxwell Kruger on Cloud Natve App modernization",
       "notes": "",
@@ -248,22 +200,6 @@
       "completed": false,
       "createdAt": "2026-08-19T05:36:08.558Z",
       "completedAt": null
-    },
-    {
-      "id": "b64c27e2-5d6f-4389-9b40-e66420727487",
-      "title": "raise select home warranty claim",
-      "notes": "",
-      "tagId": "personal",
-      "dueDate": null,
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": true,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-19T05:38:54.955Z",
-      "completedAt": "2026-08-19T05:51:25.994Z"
     },
     {
       "id": "48eb476c-eabd-474d-9710-2d97ce1bb16d",
