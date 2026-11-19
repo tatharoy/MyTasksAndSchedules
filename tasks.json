@@ -1,22 +1,6 @@
 {
   "tasks": [
     {
-      "id": "2b1ea482-6f78-4eaf-92fd-e75ec5fa814f",
-      "title": "Complete Compliance",
-      "notes": "",
-      "tagId": "deloitte",
-      "dueDate": "2026-08-28",
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": true,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-18T05:09:05.961Z",
-      "completedAt": "2026-08-20T19:32:29.804Z"
-    },
-    {
       "id": "d76042ed-610b-436a-8058-02f90e722302",
       "title": "Complete all fields mapping for NTW",
       "notes": "",
