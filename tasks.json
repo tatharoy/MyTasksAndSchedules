@@ -180,7 +180,7 @@
       "isFollowUp": false,
       "completionComment": null,
       "urgent": false,
-      "important": false,
+      "important": true,
       "completed": false,
       "createdAt": "2026-08-19T06:24:12.706Z",
       "completedAt": null
