@@ -1,22 +1,6 @@
 {
   "tasks": [
     {
-      "id": "d76042ed-610b-436a-8058-02f90e722302",
-      "title": "Complete all fields mapping for NTW",
-      "notes": "",
-      "tagId": "client",
-      "dueDate": null,
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": false,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-18T05:09:57.589Z",
-      "completedAt": "2026-08-24T23:19:22.351Z"
-    },
-    {
       "id": "38c33f50-c83a-40a7-94ee-b53defd4678c",
       "title": "Work on flowArk - Personal project for universal use- Phase 1",
       "notes": "Phase one should have app running locally - with external link running",
@@ -50,22 +34,6 @@
       "completed": false,
       "createdAt": "2026-08-18T05:15:45.659Z",
       "completedAt": null
-    },
-    {
-      "id": "cf69c86a-e333-4b52-b006-c9aa6831558e",
-      "title": "complete local dev for all contacts devs",
-      "notes": "",
-      "tagId": "client",
-      "dueDate": null,
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": true,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-18T05:17:17.277Z",
-      "completedAt": "2026-08-24T23:42:28.126Z"
     },
     {
       "id": "eb842a21-2599-41ab-9af9-fa0a7a7744e7",
@@ -280,22 +248,6 @@
       "completed": true,
       "createdAt": "2026-08-20T19:32:52.328Z",
       "completedAt": "2026-10-26T02:06:01.114Z"
-    },
-    {
-      "id": "1cbb48dc-acb9-4676-a193-dc7e70253a4b",
-      "title": "Create BRPP roster",
-      "notes": "",
-      "tagId": "deloitte",
-      "dueDate": null,
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": true,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-21T14:51:16.297Z",
-      "completedAt": "2026-08-24T23:19:13.220Z"
     },
     {
       "id": "850b71a2-582a-4092-a569-c80b9c4d7c52",
