@@ -1339,6 +1339,24 @@
       "completed": false,
       "createdAt": "2026-11-17T01:37:24.853Z",
       "completedAt": null
+    },
+    {
+      "id": "f2d145ea-eac4-4c1e-b205-b52a4e02e4d1",
+      "title": "Pay healthcare bills  - OCC and Dental",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "completedSlots": null,
+      "isFollowUp": false,
+      "followUpComments": [],
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": false,
+      "createdAt": "2026-11-23T15:06:22.698Z",
+      "completedAt": null
     }
   ]
 }
