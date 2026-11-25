@@ -207,6 +207,38 @@
       "completed": true,
       "createdAt": "2026-08-21T14:51:16.297Z",
       "completedAt": "2026-08-24T23:19:13.220Z"
+    },
+    {
+      "id": "a383128c-3ab5-4d41-aed8-8df5e0e7a0c1",
+      "title": "fill F-Bar for 2026",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": "2026-08-21",
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": true,
+      "completionComment": null,
+      "urgent": true,
+      "important": true,
+      "completed": true,
+      "createdAt": "2026-08-18T05:22:01.686Z",
+      "completedAt": "2026-08-27T13:59:43.259Z"
+    },
+    {
+      "id": "6e7eabb2-e98e-49dd-bf4c-57c10d6361e4",
+      "title": "add gutli for car pool work with Vivek",
+      "notes": "",
+      "tagId": "personal",
+      "dueDate": null,
+      "recurrence": null,
+      "lastCompletedDate": null,
+      "isFollowUp": false,
+      "completionComment": null,
+      "urgent": false,
+      "important": false,
+      "completed": true,
+      "createdAt": "2026-08-19T15:52:59.555Z",
+      "completedAt": "2026-08-26T20:29:36.016Z"
     }
   ]
 }
