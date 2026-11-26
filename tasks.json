@@ -250,22 +250,6 @@
       "completedAt": "2026-10-25T17:45:59.020Z"
     },
     {
-      "id": "871dd53f-ec90-41d3-8d1c-0c880903d1ce",
-      "title": "send BAL h4 EAD docs as soon as they email",
-      "notes": "",
-      "tagId": "deloitte",
-      "dueDate": "2026-08-27",
-      "recurrence": null,
-      "lastCompletedDate": null,
-      "isFollowUp": false,
-      "completionComment": null,
-      "urgent": true,
-      "important": true,
-      "completed": true,
-      "createdAt": "2026-08-25T17:07:39.729Z",
-      "completedAt": "2026-08-28T14:55:10.000Z"
-    },
-    {
       "id": "5279cfbd-fbe7-41d2-b23e-91b971d29522",
       "title": "add all the expenses for the camping trip",
       "notes": "",
